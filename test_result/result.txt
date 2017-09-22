@@ -1,0 +1,23 @@
+"Ejecutando servidor NodeJS"
+
+> appmocha@1.0.0 test C:\Users\NetW4\Desktop\AppMocha
+> mocha --reporter spec
+
+
+
+  Operaciones aritmeticas
+    Suma operacion a+b
+      √ realizar operacion
+    Resta operacion a-b
+      √ realizar operacion
+    Multiplicar operacion a*b
+      √ realizar operacion
+
+  Servicio web Operaciones
+    Servicio suma
+      √ estatus 200 (105ms)
+      √ resultado servicio
+
+
+  5 passing (143ms)
+

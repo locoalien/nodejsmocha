@@ -1,0 +1,25 @@
+{
+  "name": "appmocha",
+  "version": "1.0.0",
+  "description": "Lo que yo quiera",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.15.4",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "santiago gonzalez",
+  "license": "ISC"
+}
